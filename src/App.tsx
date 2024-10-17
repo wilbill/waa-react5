@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import './index.css';
+import './App.css';
 import { GithubUser } from './Type/Types'; // Importing the type from the Types folder
 
 export default function App() {
